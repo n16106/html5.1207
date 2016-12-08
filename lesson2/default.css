@@ -1,0 +1,19 @@
+/*
+ 
+*/
+
+html {
+font-size: 32px;
+}
+
+h1 {
+	/*font-size: 2em;*/
+	/* 64 */
+	font-size: 2ream;
+}
+
+span {
+	/*font-size: 0.5em;*/
+	/* 16px */
+	font-size: 0.5rem;
+}
