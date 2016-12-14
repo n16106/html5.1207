@@ -1,0 +1,7 @@
+*/
+/*a[href^="http"]{color:orange;
+}*/
+
+/*[herf$=".com]{color:orange;
+}*/
+a[href*=.co.jp]{color:orang;}
