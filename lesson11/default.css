@@ -1,0 +1,11 @@
+/*
+ */
+
+header {
+	width: 100%;
+	height: 200px;
+	background:
+	url('Nepal-2.resize.jpg') no-repeat 0 0,
+	url('Nepal-2.resize.jpg') no-repeat 30px 30px,
+	url('Nepal-2.resize.jpg') no-repeat bottom right;
+}
